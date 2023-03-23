@@ -15,6 +15,6 @@ Note: we'll asume that you already have `jupyter` (if you want to use it). If th
 - `conda install -c conda-forge tensorflow`
 - `conda install -c nvidia cuda`
 - To link `conda` with `jupyter`, you'll need to run `conda install -c anaconda ipykernel`
-- `python3 -m pip install gensim scikit-learn`
+- `python3 -m pip install gensim scikit-learn matplotlib`
 
 You have the dump (result of `conda list -e`) on `requirements.txt`.
